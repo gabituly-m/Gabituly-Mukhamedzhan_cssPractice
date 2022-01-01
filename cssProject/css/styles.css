@@ -1,0 +1,35 @@
+.sozder{
+  text-align: center;
+  font-size: 30px;
+  font-family: monospace;
+  border: dashed;
+  border-radius: 10px;
+  border-color: black;
+  border-width: thin;
+  color: lightgreen;
+}
+.images{
+  text-align: center;
+  border-style: groove;
+  border-width: medium;
+  background-color: lightblue;
+}
+#qaz{
+  width: 330px;
+  height: 270px;
+}
+.position{
+  margin: 30px;
+  padding: 20px;
+  text-align: center;
+  font-family: serif;
+  font-size: 20px;
+  border: double;
+  border-radius: 50%;
+  border-color: green;
+  display: flex;
+  color: black;
+}
+h2{
+  text-align: center;
+}
